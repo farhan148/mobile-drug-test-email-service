@@ -2,9 +2,32 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## What this studio is for
+
+This is an email studio for planning and writing email campaigns for a small business (here, the email services for the 2nd edition of the Agent Factory book). Claude helps plan campaigns, write the emails, and keep them consistent with the brand.
+
+## Folders
+
+- `brand/` - the brand voice and style notes that every email should follow.
+- `leads/` - practice contact lists (fake or test data only).
+- `campaigns/` - one folder per campaign, with its plan and its emails.
+- `notes/` - research and decisions, such as which skills and tools we chose.
+
+## Rules
+
+- Write in plain English: short sentences, no jargon, no hype.
+- Never send email to real people. Only use `@resend.dev` test addresses, `@example.com` placeholders, or the owner's own address.
+- Ask before deleting anything.
+
+## Plugin
+
+The Anthropic `marketing` plugin (from `anthropics/knowledge-work-plugins`) is enabled for this project only, via `.claude/settings.json`.
+
+## Reference notes for this repo
+
 ## Current state
 
-Early-stage, non-git project with no code, build, lint, or test commands yet. It holds:
+Early-stage git repo (branch `main`) with no code, build, lint, or test commands yet. It holds:
 
 - `README.md` — project purpose (email services for the 2nd edition of the Agent Factory book, https://agentfactory2.panaversity.org/five-horizons/) and the intended folder roles.
 - `Email Studio Lab Assignment FDE-102 (Copy).md` — a ~1000-line, 15-step Claude Code course lab (CCAR-F exam prep). It is the only substantial content and the likely blueprint for how this project grows. It is reference material, not project config.
@@ -15,7 +38,7 @@ Do not treat the lab's example brand (Kettlebird Tea / "The Steep Club") as this
 ## Email-safety rules (apply even before any tooling exists)
 
 - Never send email to real people. Only send to `@resend.dev` test addresses, `@example.com` placeholders (these never deliver), or the user's own address.
-- `subscribers/` holds real subscriber data once populated; keep it out of version control and never commit credentials. API keys go in environment variables (`${VAR:-safe_default}` pattern in `.mcp.json`), never in files.
+- `subscribers/` holds real subscriber data once populated; it is already in `.gitignore` (as are `.env` and `.claude/settings.local.json`), so keep it there and never commit credentials. API keys go in environment variables (`${VAR:-safe_default}` pattern in `.mcp.json`), never in files.
 - Ask before deleting anything.
 
 ## Architecture the lab prescribes (if built out here)

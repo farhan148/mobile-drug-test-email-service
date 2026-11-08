@@ -1,5 +1,10 @@
-subscribers/
+# Claude Code local settings (personal, not shared)
 .claude/settings.local.json
-.env
+
+# System files
 .DS_Store
 Thumbs.db
+
+# Secrets and private data
+.env
+subscribers/
