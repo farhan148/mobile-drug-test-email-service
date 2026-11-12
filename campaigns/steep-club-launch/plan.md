@@ -2,7 +2,7 @@
 
 ## Open questions (answer before we write emails)
 
-1. **Brand.** `brand/voice.md` is written for the Agent Factory book, and its sign-off is "Agent Factory campaign". The Steep Club is a tea subscription. We need a Steep Club voice and sign-off, or confirmation that this plan is practice only.
+1. **Brand.** This plan follows `brand/steep-club-voice.md` (still a draft: "Friendly" and "Calm" are not confirmed). The sign-off is "The Steep Club team". Do not use `brand/voice.md`, which is for the Agent Factory book.
 2. **The offer.** We do not know the price, the plans, or any launch bonus. The plan below leaves these blank. Nothing is invented.
 3. **The date.** "First Monday of next month" is **Monday 7 December 2026**. Week 4 falls over the end-of-year break. Confirm the start date.
 4. **Sending tool and sender address.** Not chosen yet.
@@ -26,9 +26,9 @@ About 2,000 waitlist members. They already know us, so this is a "decision" audi
 
 | Group | Who they are | What holds them back | What they need to hear |
 |---|---|---|---|
-| Tea-curious beginners | New to loose-leaf tea. Not sure what to pick. | Fear of choosing wrong. Fear of wasting money. | It is easy to start. Here is what comes in the box. You can change or stop. |
+| Tea-curious beginners | New to loose-leaf tea. Not sure what to pick. | Fear of choosing wrong. Fear of wasting money. | Here is how to start. Here is what comes in the box. Here is how pausing and cancelling work (once confirmed). |
 | Gift buyers | Buying for someone else. | Will it arrive in time? Will they like it? | How gifting works, the order deadline, and what the person receives. |
-| Daily tea drinkers | Already drink tea every day. | "Why not buy what I already buy?" | What is different: the teas, the choice, the routine. |
+| Daily tea drinkers | Already drink tea every day. | "Why not buy what I already buy?" | What is in the box and how it fits your daily routine (once confirmed). |
 
 **Group sizes are unknown.** We need the split from the list (`group` column) to set targets per group. Until then, targets below are for the whole list.
 
@@ -38,12 +38,12 @@ About 2,000 waitlist members. They already know us, so this is a "decision" audi
 
 Supporting messages (each one needs a proof point we can show):
 
-1. **Easy to start.** Pick a plan in a few minutes. *Proof: the sign-up page itself.*
+1. **Clear about how to start.** Show the steps to sign up. *Proof: the sign-up page itself.*
 2. **Clear about what you get.** Say what is in each delivery. *Proof: real product photos and a tea list.*
-3. **Low risk.** Say how to pause or cancel. *Proof: the real policy. Confirm it first.*
+3. **Clear about how it works.** Say how pausing and cancelling work. *Proof: the real policy. Confirm it first. Say nothing about it until then.*
 4. **Made for sharing.** A subscription works as a gift. *Proof: the gift flow. Confirm it exists.*
 
-**Claims we will not make** (from our brand rules): no health or "detox" claims, no promised results of any kind, no hype words such as "revolutionary" or "game-changer."
+**Claims we will not make** (full list in `brand/steep-club-voice.md`): no health or "detox" claims, no unconfirmed prices or savings, no taste promises such as "you will love it", no sourcing or certification claims without proof, no unconfirmed delivery dates, no hype words such as "revolutionary" or "game-changer", and no fake urgency.
 
 ## 4. Channel strategy
 
@@ -59,9 +59,10 @@ Optional, free, and only if the team wants it: a post on the shop's own social a
 ## 5. Email structure and rules
 
 - Three segments: beginners, gift buyers, daily drinkers.
-- Everyone gets the same **launch** and **last-day** emails. The middle emails are written per group.
+- Everyone gets the same **launch** email, and the same **last-day** email if there is a real deadline. The middle emails are written per group.
 - One main link per email. Subject line 50 characters or fewer. Preview text 90 characters or fewer.
-- Every email has `{{first_name}}`, a sign-off, and a footer with `{{company_address}}` and `{{unsubscribe_url}}`.
+- Every email has `{{first_name}}`, the sign-off "The Steep Club team", and a footer with `{{company_address}}` and `{{unsubscribe_url}}`.
+- Before the first real send, check that everyone on the list agreed to marketing email (the `consent` column) and that the unsubscribe link works.
 - Do not email people who already subscribed. Remove buyers from the list after each send.
 - **Testing:** only `@resend.dev` addresses, `@example.com` placeholders, or the owner's own address. Never real subscribers while we practise.
 
@@ -73,18 +74,18 @@ Week 1 starts **Monday 7 December 2026**. Dates assume that start. Send time is 
 |---|---|---|---|---|
 | Pre-launch (by 4 Dec) | Fri | Landing page live and tested | , | Must be ready before email 1 |
 | Pre-launch | Fri | Test sends to `@resend.dev` and owner address | , | Check links, merge fields, footer |
-| 1 | Mon 7 Dec | **E1: It's open.** Waitlist gets first access | All | Main launch email |
+| 1 | Mon 7 Dec | **E1: Your waitlist spot is ready.** (Say "first access" only if it is true) | All | Main launch email |
 | 1 | Thu 10 Dec | **E2: Start here** (per group, 3 versions) | By group | Answers each group's main worry |
 | 2 | Tue 15 Dec | **E3: What comes in the box** | All | Real photos, tea list, how it works |
-| 2 | Fri 18 Dec | **E4: Gift version / Easy start** | Gift buyers: gifting deadline. Others: easy-start reminder | Gift deadline must be real. Confirm shipping dates |
+| 2 | Fri 18 Dec | **E4: Gift version / Getting started** | Gift buyers: gifting deadline. Others: getting-started reminder | Gift deadline must be real. Confirm shipping dates |
 | 2 | Fri 18 Dec | **Checkpoint:** count subscribers vs. target | Team | Adjust weeks 3-4 if below 100 |
-| 3 | Tue 22 Dec | **E5: A question we get a lot** (FAQ) | Non-buyers | Pause, cancel, delivery, choice |
+| 3 | Tue 22 Dec | **E5: Questions about getting started** (FAQ) | Non-buyers | Pause, cancel, delivery, choice |
 | 3 | Fri 25 Dec | No send | , | Holiday. Leave the slot open |
 | 4 | Tue 29 Dec | **E6: Your spot closes soon** | Non-buyers | Only if there is a real end date |
-| 4 | Sat 2 Jan | **E7: Last day** | Non-buyers | Short. One link |
+| 4 | Sat 2 Jan | **E7: Last day** (only if there is a real closing date) | Non-buyers | Short. One link. Skip it if there is no real deadline |
 | After | Sun 3 Jan | Count results and write the report | Team | Feeds next campaign |
 
-Total: 7 emails, plus 2 extra versions of E2 and one gift version of E4. About 11 pieces of copy.
+Total: 5 to 7 emails, plus 2 extra versions of E2 and one gift version of E4. About 11 pieces of copy.
 
 **Dependencies**
 - The landing page and the offer must be fixed before E1 is written.
@@ -99,10 +100,10 @@ Total: 7 emails, plus 2 extra versions of E2 and one gift version of E4. About 1
 | E1 Launch | Must have | |
 | E2 Start here (3 versions) | Must have | One per group |
 | E3 What's in the box | Must have | Needs real photos |
-| E4 Gift / easy-start | Must have | Gift version only if gifting exists |
+| E4 Gift / getting started | Must have | Gift version only if gifting exists |
 | E5 FAQ | Must have | |
 | E6 Closing soon | Nice to have | Only with a real deadline |
-| E7 Last day | Must have | |
+| E7 Last day | Nice to have | Only with a real closing date |
 | Reply handling plan | Must have | Who answers replies, and how fast |
 | Social post on launch day | Nice to have | Free |
 
@@ -132,7 +133,7 @@ Small. Email only.
 
 | Item | Cost | Notes |
 |---|---|---|
-| Email sending | Free or low-cost tier | 2,000 contacts, about 12 sends each, about 24,000 emails. Check the tool's free limit |
+| Email sending | Free or low-cost tier | 2,000 contacts, up to 7 sends each, up to about 14,000 emails (fewer as buyers are removed). Check the tool's free limit |
 | Landing page | Existing site or free builder | |
 | Photos | Existing product photos | |
 | Contingency (10-15%) | Keep in reserve | For a paid email-tool tier if the free limit is too low |
@@ -147,7 +148,7 @@ No paid ads.
 | Holiday weeks lower attention | Weeks 3 and 4 cover Christmas and New Year | Fewer sends, shorter emails, no send on 25 December. Gift email goes early |
 | Too many emails cause unsubscribes | The list is small and cannot be replaced | Remove buyers after each send. Watch the unsubscribe rate. Stop at 1% |
 | Broken links or merge fields | Hurts trust at launch | Test sends to safe addresses before every send |
-| Claims we cannot back up | Brand and legal risk | Review every email against `brand/voice.md` rules. No health or result claims |
+| Claims we cannot back up | Brand and legal risk | Review every email against `brand/steep-club-voice.md`. No health or result claims |
 
 ## 11. Next steps
 
