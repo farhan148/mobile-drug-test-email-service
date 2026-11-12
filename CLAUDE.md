@@ -19,6 +19,13 @@ This is an email studio for planning and writing email campaigns for a small bus
 - Never send email to real people. Only use `@resend.dev` test addresses, `@example.com` placeholders, or the owner's own address.
 - Ask before deleting anything.
 
+## Brand voices
+
+Each brand has its own voice file in `brand/`. Use the file that matches the campaign. Do not mix them.
+
+- Agent Factory book: `brand/voice.md` (imported below, so it always loads).
+- The Steep Club (tea subscription): `brand/steep-club-voice.md`. Open it before writing or reviewing anything in `campaigns/steep-club-launch/`. It is imported by path, not by `@`, so it only loads when needed.
+
 ## Plugin
 
 The Anthropic `marketing` plugin (from `anthropics/knowledge-work-plugins`) is enabled for this project only, via `.claude/settings.json`.
