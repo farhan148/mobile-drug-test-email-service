@@ -53,3 +53,5 @@ The lab describes a layered setup that spans several files, so check these conve
 - **Headless review**: `scripts/review.mjs` runs `claude -p ... --output-format json --json-schema ...` and exits 1 on any high-severity finding.
 
 Prerequisites per the lab: Node.js 22+, Git (Git for Windows on Windows, since Claude Code uses Git Bash), Claude Code.
+
+@brand/voice.md
