@@ -1,10 +1,5 @@
-# Claude Code local settings (personal, not shared)
-.claude/settings.local.json
-
-# System files
+﻿.env
+.env.*
+node_modules/
 .DS_Store
-Thumbs.db
 
-# Secrets and private data
-.env
-subscribers/

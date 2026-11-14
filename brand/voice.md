@@ -1,45 +1,51 @@
-# Brand voice: Agent Factory, 2nd edition
+# Brand voice: Roadside Results Mobile Testing
+
+Roadside Results Mobile Testing is a made-up sample name. Rename it when the owner gives the real one.
 
 ## About the brand
 
-We are launching the second edition of the Agent Factory book (https://agentfactory.panaversity.org/). Its idea is the Five Horizons (https://agentfactory.panaversity.org/five-horizons/). Our emails help students and software engineers reach the book, and they focus on one thing: how to prepare for certification, using the certification roadmap (https://agentfactory.panaversity.org/certification-and-portfolio-roadmaps/).
+We send technicians to workplaces and homes to run drug tests on site. Our emails help three groups: employers who need workplace testing, individuals who need a test, and existing clients who may want repeat or program services.
 
-Our readers are students and software engineers.
+Each email asks the reader to do one thing: book a test or book a call. Phone calls are a handoff. Our team makes them, and only to people who said yes to phone contact.
 
 ## Our voice in three words
 
-1. **Motivating.** We help readers see the next step and feel they can take it.
-2. **Warm.** We write like a teacher who wants the reader to do well.
-3. **Clear.** Short sentences, plain English, no jargon. (Suggested by us from the project rules. Confirm or swap it.)
+1. **Calm.** Many readers are busy or stressed. We stay steady and never add pressure.
+2. **Respectful.** Testing is private. We treat every reader with courtesy and never judge.
+3. **Clear.** Short sentences, plain English, no jargon.
+
+(Suggested from the project rules. Confirm or swap these.)
 
 ## Words we use
 
-- certification roadmap
-- students
-- software engineers
-- Agent Factory
-- Five Horizons
+- on-site testing
+- book a test
+- book a call
+- technician
+- workplace
+- private
+- confidential
 
 Use "you" and "your". Use short, everyday words.
 
 ## Words we avoid
 
-- "big transition is coming"
-- "AI revolution"
-- "industry changing"
-- Other hype words, such as "revolutionary" and "game-changer".
-- Jargon and long, complicated sentences.
+- "pass your test", "beat the test", "guaranteed"
+- "last chance", "act now", "don't miss out" and other pressure phrases
+- Slang for drugs or for people who use them
+- Hype words such as "revolutionary" and "game-changer"
+- Jargon and long, complicated sentences
 
 ## Claims we must never make
 
-- Never promise a job.
-- Never promise a salary or any earnings.
-- Never promise that a reader will pass a certification exam.
-- Never say the book or the roadmap is officially endorsed by an exam body or certifying organization.
+- Never mention anyone's test results, name or case details.
+- Never say why a reader needs a test (a court order, probation, an incident). Do not guess.
+- Never guarantee or imply a passing result.
+- Never promise prices, turnaround times or service areas the owner has not confirmed.
 - Never promise any other result we cannot prove.
 
-Talk about what the book and the roadmap help readers do, such as plan, practise and prepare.
+Talk about what we do: send a technician, test on site, and keep it private.
 
 ## How we sign off
 
-Sign every email: **Agent Factory campaign**
+Sign every email: **Roadside Results Mobile Testing**

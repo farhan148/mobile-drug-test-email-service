@@ -19,8 +19,8 @@ If no campaign folder was given, or it does not exist, stop. Do not write any fi
 ## Steps
 
 1. Use Glob to find the emails in `<campaign folder>/emails/*.md`. If there are none, stop and say so.
-2. Read `leads/leads.csv`. The groups are `tea-curious`, `gift-buyers` and `daily-drinkers`. Use Grep on the `group` column to confirm each group has at least one lead. Never copy names or email addresses into the emails. The greeting stays `{{first_name}}`.
-3. Read the brand voice file for the campaign (see `CLAUDE.md`). For `steep-club-launch` use `brand/steep-club-voice.md`. Read `.claude/rules/emails.md`. Follow both.
+2. Read `leads/leads.csv`. The groups are `employers`, `individuals` and `existing-clients`. Use Grep on the `group` column to confirm each group has at least one lead. Never copy names, companies or email addresses into the emails. The greeting stays `{{first_name}}`.
+3. Read `brand/voice.md` and `.claude/rules/emails.md`. Follow both.
 4. For each email and each group, write a new file at `<campaign folder>/groups/<group>/emails/<same file name>`.
 
 ## What stays the same
@@ -38,18 +38,19 @@ Keep these exactly as they are in the original email:
 Change only two things, so the email fits the group:
 
 1. **The opening line.** The first line after the greeting.
-2. **One example.** One example in the body, such as when or how the reader might use the tea.
+2. **One example.** One example in the body, such as how the reader might use on-site testing.
 
 Group guidance:
 
-- `tea-curious`: new to loose-leaf tea and still exploring. Reassuring, no pressure, nothing to know in advance.
-- `gift-buyers`: thinking of the subscription for someone else. Keep the example about giving, and do not promise delivery dates or prices that the owner has not confirmed.
-- `daily-drinkers`: already drink tea every day. Keep the example about their daily routine.
+- `employers`: businesses that need workplace testing (construction, trucking, warehouses, staffing). Keep the example about running a safe, organised workplace. Do not promise prices, turnaround times or service areas.
+- `individuals`: people who need a test. Be calm and discreet. Keep the example about convenience and privacy. Never say why they need a test (no court order, probation or job-condition wording).
+- `existing-clients`: past customers. Thank them and keep the example about repeat or program services. Describe the kind of service only, with no price or discount.
 
 If an email has no natural spot for an example, adapt the closest sentence. Do not add extra paragraphs.
 
 ## Rules
 
+- Never mention test results, guarantees, prices, turnaround times or service areas.
 - Follow the voice file: plain English, short sentences, no hype, none of its words to avoid, none of its claims to never make.
 - Only write inside `<campaign folder>/groups/`. Never edit the original emails.
 - Never send anything. Write files only.
