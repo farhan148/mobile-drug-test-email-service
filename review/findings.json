@@ -1,0 +1,32 @@
+{
+  "findings": [
+    {
+      "file": "campaigns/steep-club-launch/groups/gift-buyers/emails/01-spot-is-ready.md",
+      "line": 6,
+      "severity": "medium",
+      "problem": "The email says you can start a subscription for someone else, and mentions birthdays and thank-yous (line 10). Nobody has confirmed that gifting exists. Owner question 8 is still open, and the plan says to confirm the gift flow first. This is an unconfirmed claim, and it is not marked with a [CONFIRM] tag.",
+      "fix": "Add a [CONFIRM: gifting exists] tag and list it under owner question 8. Or use neutral wording until the owner answers."
+    },
+    {
+      "file": "campaigns/steep-club-launch/emails/02-how-to-start.md",
+      "line": 9,
+      "severity": "medium",
+      "problem": "The email still has [CONFIRM] placeholders at lines 9, 10 and 13 (first step, second step, price and plans). It also has placeholders in 03-whats-in-the-box.md lines 8, 10 and 12, and in 04-your-spot-is-waiting.md line 10. The emails/*.md rules say these must be gone when an email is ready to send. All of them are tracked in notes/steep-club-owner-questions.md, so this is expected for drafts, but emails 02, 03 and 04 cannot be sent yet.",
+      "fix": "Get the owner's answers and replace each placeholder. Do not send 02, 03 or 04 until they are gone."
+    },
+    {
+      "file": "campaigns/steep-club-launch/emails/03-whats-in-the-box.md",
+      "line": 12,
+      "severity": "medium",
+      "problem": "The email claims each tea comes with simple brewing steps. The owner has not confirmed this. It has a [CONFIRM] tag, but the sentence reads as a fact and could slip through if the tag is deleted without checking. This is a claim about what is in the box, which the brand voice says we must be able to prove.",
+      "fix": "Keep the sentence out of the copy until the owner confirms brew steps are included."
+    },
+    {
+      "file": "campaigns/steep-club-launch/emails/02-how-to-start.md",
+      "line": 15,
+      "severity": "low",
+      "problem": "\"If you have a question, just reply to this email\" appears in 02 (line 15) and 04 (line 12). It invites replies, but the owner has not confirmed that the reply address is monitored (owner question 10). The emails/*.md rules do not allow promises about replies that the owner has not confirmed.",
+      "fix": "Keep the line out of the final copy until the owner confirms the reply address is monitored. Use the same wording in both emails."
+    }
+  ]
+}
