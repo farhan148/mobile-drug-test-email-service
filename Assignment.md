@@ -750,7 +750,7 @@ Pick work up across days, try two ideas side by side, review automatically, and 
 
 Pick up earlier work by name, and try two ideas from the same starting point.
 
-- [ ] Done
+- [x] Done
 
 **In plain words:** a named session is a bookmark. A fork is a fork in the road: two paths from the same spot. Forks share the files on your computer, but not the conversation.
 
