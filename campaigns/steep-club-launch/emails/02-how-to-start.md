@@ -12,7 +12,7 @@ Not sure where to begin? Here is the short version.
 
 The page shows the price and what you get before you confirm. [CONFIRM: price and plans, then state them exactly here.]
 
-If you have a question, just reply to this email. A person will read it.
+If you have a question, just reply to this email.
 
 [See the sign-up page](https://kettlebird.example/steep-club?src=e2)
 

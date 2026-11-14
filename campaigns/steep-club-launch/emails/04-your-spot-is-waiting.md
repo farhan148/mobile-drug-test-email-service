@@ -5,15 +5,11 @@ Hi {{first_name}},
 
 A quick note: your waitlist spot is still here.
 
-If you want to begin, it takes a few minutes:
-
-1. Open the sign-up page.
-2. Choose how you want to start.
-3. Check your order and confirm.
+If you want to begin, open the sign-up page and follow the steps. The page shows the price and what you get before you confirm.
 
 If you are buying for someone else, [CONFIRM: gifting exists, then explain how it works. Otherwise delete this line.]
 
-Have a question? Reply to this email and we will help.
+If you have a question, just reply to this email.
 
 [Start your subscription](https://kettlebird.example/steep-club?src=e4)
 

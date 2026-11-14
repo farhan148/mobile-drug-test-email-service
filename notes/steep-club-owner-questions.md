@@ -7,7 +7,7 @@ These answers clear the `[CONFIRM]` tags in the launch emails. Until they are an
 2. Is there a launch bonus or discount? If yes, what are the exact terms and end date?
 
 ## Sign-up steps (emails 02 and 04)
-3. What are the real steps on the sign-up page, in order? (Email 02 needs steps 2 and 3. Email 04 should use the same list.)
+3. What are the real steps on the sign-up page, in order? (Email 02 needs steps 2 and 3. Email 04 does not list steps, so it cannot contradict email 02. If you want a list in 04, it must match 02.)
 
 ## What is in the box (email 03)
 4. Which teas, and how much of each, are in a typical box?
@@ -22,7 +22,7 @@ These answers clear the `[CONFIRM]` tags in the launch emails. Until they are an
 9. How does a subscriber pause or cancel, and is there any cost or notice period?
 
 ## Replies (emails 02 and 04)
-10. Is the reply address monitored, and by whom? Emails 02 and 04 invite replies.
+10. Is the reply address monitored, and by whom? Emails 02 and 04 invite replies, using the same wording. I removed "A person will read it" and "we will help" until this is confirmed.
 
 ## Sender (email footer)
 11. Is "Kettlebird Tea" the real sender name for the footer? What is the company address for `{{company_address}}`?
