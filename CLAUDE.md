@@ -35,11 +35,11 @@ The Anthropic `marketing` plugin (from `anthropics/knowledge-work-plugins`) is e
 
 ## Current state
 
-Early-stage git repo (branch `main`) with no code, build, lint, or test commands yet. It holds:
+Git repo (branch `main`). The only code is the headless review script, `node scripts/review.mjs <campaign-folder>`. There are no build, lint, or test commands. It holds:
 
 - `README.md` — project purpose (email services for the 2nd edition of the Agent Factory book, https://agentfactory2.panaversity.org/five-horizons/) and the intended folder roles.
 - `Assignment.md` (formerly `Email Studio Lab Assignment FDE-102 (Copy).md`) — a ~1000-line, 15-step Claude Code course lab (CCAR-F exam prep). It is the only substantial content and the likely blueprint for how this project grows. It is reference material, not project config.
-- Empty folders: `templates/`, `subscribers/`, `campaigns/`, `docs/`.
+- Lab work in progress: `brand/`, `leads/`, `campaigns/steep-club-launch/` (plan, emails, per-group versions), `campaigns/test-bad/`, `notes/`, `review/`, `scripts/`, and `.claude/` (rule, skill, hook, settings). `subscribers/` is git-ignored and does not exist yet.
 
 Do not treat the lab's example brand (Kettlebird Tea / "The Steep Club") as this project's brand. The book's actual brand voice, provider, and sender domain are undecided; ask before assuming.
 

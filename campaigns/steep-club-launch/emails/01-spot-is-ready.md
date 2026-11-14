@@ -1,4 +1,4 @@
-Subject: Your Steep Club waitlist spot is ready
+Subject: Your Steep Club spot is ready for a slow cup
 Preview: You can start your subscription today. Here is how.
 
 Hi {{first_name}},

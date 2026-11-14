@@ -3,7 +3,7 @@ Preview: Last chance to join, this offer ends tonight.
 
 Hi there,
 
-Our new tea blend is a simple way to slow down with a warm cup.
+Our new tea blend is a simple way to slow down with a warm cup. It detoxes your body and cleanses your system.
 
 This is your last chance. The offer ends tonight and will never come back.
 
