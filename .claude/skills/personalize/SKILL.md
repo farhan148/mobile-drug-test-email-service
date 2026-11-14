@@ -43,7 +43,7 @@ Change only two things, so the email fits the group:
 Group guidance:
 
 - `employers`: businesses that need workplace testing (construction, trucking, warehouses, staffing). Keep the example about running a safe, organised workplace. Do not promise prices, turnaround times or service areas.
-- `individuals`: people who need a test. Be calm and discreet. Keep the example about convenience and privacy. Never say why they need a test (no court order, probation or job-condition wording).
+- `individuals`: people who need a test. Be calm and respectful. Keep the example about convenience. Do not make any privacy or confidentiality claim, and do not mention homes or any place the original email does not name. Never say why they need a test (no court order, probation or job-condition wording).
 - `existing-clients`: past customers. Thank them and keep the example about repeat or program services. Describe the kind of service only, with no price or discount.
 
 If an email has no natural spot for an example, adapt the closest sentence. Do not add extra paragraphs.
@@ -51,6 +51,7 @@ If an email has no natural spot for an example, adapt the closest sentence. Do n
 ## Rules
 
 - Never mention test results, guarantees, prices, turnaround times or service areas.
+- Add no claim that is not already in the original email. In particular, add no privacy or confidentiality promise, no home visits, no callbacks and no timing.
 - Follow the voice file: plain English, short sentences, no hype, none of its words to avoid, none of its claims to never make.
 - Only write inside `<campaign folder>/groups/`. Never edit the original emails.
 - Never send anything. Write files only.
