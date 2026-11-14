@@ -1,0 +1,17 @@
+Subject: Your Steep Club waitlist spot is ready
+Preview: You can start your subscription today. Here is how.
+
+Hi {{first_name}},
+
+Your spot is ready, and you do not need to know anything about tea to start.
+
+You can start your subscription today. The sign-up page shows each step, so you can see what you are choosing before you commit.
+
+There is no rush. Start when it suits you, even if that is a quiet evening when you want to try a first cup. Thank you for waiting with us.
+
+[Start your subscription](https://kettlebird.example/steep-club?src=e1)
+
+The Steep Club team
+
+You're getting this because you joined the Kettlebird Tea waitlist.
+Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
