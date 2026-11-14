@@ -3,7 +3,7 @@ Preview: Start when you are ready. Here is a short reminder of how.
 
 Hi {{first_name}},
 
-A quick note, since we have not heard from you yet. Your waitlist spot is still here.
+A quick note: your waitlist spot is still here.
 
 If you want to begin, it takes a few minutes:
 

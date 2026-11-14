@@ -9,7 +9,7 @@ Here is what you get in each delivery.
 
 [CONFIRM: anything else in the box, such as a brew guide.]
 
-If you are new to loose-leaf tea, each tea comes with simple steps for brewing a good cup. [CONFIRM: that brew steps are included.]
+If you are new to loose-leaf tea, each tea comes with simple steps for brewing it. [CONFIRM: that brew steps are included.]
 
 You can see the full details on the sign-up page.
 
