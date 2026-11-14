@@ -17,6 +17,7 @@ This is an email studio for planning and writing email campaigns for a small bus
 
 - Write in plain English: short sentences, no jargon, no hype.
 - Never send email to real people. Only use `@resend.dev` test addresses, `@example.com` placeholders, or the owner's own address.
+- Sending through Resend is allowed only to Resend's test addresses (ending in `@resend.dev`) and to the owner's own email address. A guard will enforce this in the next step.
 - Ask before deleting anything.
 
 ## Brand voices
