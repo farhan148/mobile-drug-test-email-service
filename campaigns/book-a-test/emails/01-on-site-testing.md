@@ -1,13 +1,13 @@
-Subject: On-site testing, done privately
-Preview: A technician comes to you. Book a test or ask for a call.
+Subject: A technician comes to you
+Preview: Book a test on our booking page, or ask for a call.
 
 Hi {{first_name}},
 
-We run drug tests on site. A technician comes to your workplace or home.
+We run drug tests on site. A technician comes to you.
 
-That means no trip to a clinic. It also means the test stays private.
+That means no trip to a clinic.
 
-If you need a test, you can book one online. If you would rather talk first, ask for a call and our team will reach out.
+You can book a test on our booking page. If you would like to talk first, you can ask for a call.
 
 [Book a test](https://roadsideresults.example/book?src=e1)
 

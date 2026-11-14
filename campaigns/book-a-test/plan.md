@@ -93,3 +93,9 @@ Owner must confirm before anything is sent:
 4. Whether to send during the holiday weeks.
 5. Whether a price, turnaround time or service area may ever be mentioned. For now, none are.
 6. Who makes the phone calls, and the rule that they call only people with `phone_consent` = yes.
+7. Privacy. The emails make no privacy promise yet. Add one only if the owner confirms the real practice.
+8. Whether the service covers home visits as well as workplaces. The emails only say "a technician comes to you".
+9. Whether the team never asks why someone books a test. The emails say nothing about it yet.
+10. How the booking page works: whether readers pick a time, what the form asks, and whether there is a question field.
+11. How and when the team answers call requests. The emails promise no callback.
+12. That every contact with `consent` = yes really asked to hear from the company, since the footer says so.

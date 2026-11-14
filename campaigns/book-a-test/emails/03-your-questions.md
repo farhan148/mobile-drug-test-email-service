@@ -1,17 +1,17 @@
 Subject: Your questions about on-site testing
-Preview: Privacy, scheduling and what to expect. Plain answers, nothing hidden.
+Preview: How on-site testing works, and how to ask for a call.
 
 Hi {{first_name}},
 
-People often ask us a few things. Here are plain answers.
+Here are plain answers to a few common questions.
 
-**Is it private?** Yes. A technician comes to you, and your information stays confidential.
+**What is on-site testing?** A technician comes to you and runs the test there.
 
-**Do I have to say why I need a test?** No. We do not ask.
+**How do I book?** Use the booking page.
 
-**Can I talk to someone first?** Yes. Ask for a call when you book, and our team will contact you.
+**Can I talk to someone first?** Yes. Ask for a call on the booking page.
 
-If you have another question, add it to the booking form and we will answer it.
+**What if I have another question?** Ask for a call. Please do not send personal details by email.
 
 [Book a test or ask for a call](https://roadsideresults.example/book?src=e3)
 
