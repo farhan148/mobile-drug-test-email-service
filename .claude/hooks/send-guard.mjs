@@ -6,6 +6,9 @@ const ALWAYS_BLOCK = new Set([
   "create-automation",
   "send-inbox-draft",
   "send-new-inbox-email",
+  "reply-to-inbox-thread-email",
+  "forward-inbox-thread-email",
+  "send-event",
 ]);
 const CHECK_ADDRESSES = new Set(["send-email", "send-batch-emails"]);
 
